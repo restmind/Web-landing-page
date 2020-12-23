@@ -1,0 +1,31 @@
+.navbar__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 12px;
+}
+
+.button-learn-more {
+  width: 104px;
+  margin-left: 36px;
+}
+.button-buy-now {
+  width: 104px;
+  background-color: #ffd166;
+  color: black;
+}
+
+
+.intro__container{
+  margin-top: 162px;
+  background: url(../images/ipad.svg) no-repeat right -400px top 60px;
+	height: 625px;
+}
+.intro__inner {
+  width: 540px;
+}
+
+
+@media screen and (max-width: 768px) {
+
+}

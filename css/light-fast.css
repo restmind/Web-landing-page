@@ -1,0 +1,10 @@
+.light-fast{
+    padding: 155px 0;
+}
+.light-fast > .container {
+    display: flex;
+    align-items: center;
+}
+.light-fast__image {
+    padding-left: 30px;
+}

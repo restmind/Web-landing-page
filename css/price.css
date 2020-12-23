@@ -1,0 +1,26 @@
+.price{
+    height: 600px;
+}
+.price__inner1 {
+  width: 725px;
+}
+.price__inner2 {
+  display: flex;
+  justify-content: space-between;
+}
+.price__item{
+    margin-right: 60px;
+}
+.price__item:last-child{
+    margin-right: 0;
+}
+.price__text {
+  font-size: 14px;
+  line-height: 24px;
+  color: #5d6970;
+  padding-top: 12px;
+}
+.purchase-button {
+  width: 182px;
+  margin-top: 34px;
+}

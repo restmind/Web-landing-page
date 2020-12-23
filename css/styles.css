@@ -1,0 +1,11 @@
+﻿@import "./reset.min.css";
+@import "./normalize.min.css";
+
+@import "./global.css";
+
+
+@import "./header.css";
+@import "./light-fast.css";
+@import "./price.css";
+@import "./footer.css";
+
